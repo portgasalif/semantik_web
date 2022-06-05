@@ -1,0 +1,219 @@
+@prefix id: <https://chipset.com/> .
+@prefix chip: <https://chipset.com/ns/chip#> .
+
+    id:D001
+    chip:Company        "Apple" ;
+    chip:CpuName        "A15 Bionic" ;
+    chip:GSC            "1727" ;
+    chip:GBM            "4688" ;
+    chip:CSpeed         "3223" ;
+    chip:GpuName        "Apple GPU" .
+
+    id:D002
+    chip:Company        "MediaTek" ;
+    chip:CpuName        "Dimensity 9000" ;
+    chip:GSC            "1269" ;
+    chip:GBM            "4267" ;
+    chip:CSpeed         "3050" ;
+    chip:GpuName        "Mali-G710" .
+
+    id:D003
+    chip:Company         "Qualcomm" ;
+    chip:CpuName         "Snapdragon 8 Gen 1" ;
+    chip:GSC             "1213" ;
+    chip:GBM             "3765" ;
+    chip:CSpeed          "3000" ;
+    chip:GpuName         "Adreno 730" .
+
+    id:D004
+    chip:Company         "Apple" ;
+    chip:CpuName         "A14 Bionic" ;
+    chip:GSC             "1581" ;
+    chip:GBM             "4093" ;
+    chip:CSpeed          "3100" ;
+    chip:GpuName         "Apple GPU" .
+
+    id:D005
+    chip:Company         "Qualcomm" ;
+    chip:CpuName         "Snapdragon 888 Plus" ;
+    chip:GSC             "1162" ;
+    chip:GBM             "3626" ;
+    chip:CSpeed          "2995" ;
+    chip:GpuName         "Mali-G610 MC6" .
+
+    id:D006
+    chip:Company         "Samsung" ;
+    chip:CpuName         "Exynos 2200" ;
+    chip:GSC             "1146" ;
+    chip:GBM             "3534" ;
+    chip:CSpeed          "2800" ;
+    chip:GpuName         "Samsung Xclipse 920" .
+
+    id:D007
+    chip:Company         "Qualcomm" ;
+    chip:CpuName         "Snapdragon 888" ;
+    chip:GSC             "1120" ;
+    chip:GBM             "3673" ;
+    chip:CSpeed          "2840" ;
+    chip:GpuName         "Adreno 660" .
+
+    id:D008
+    chip:Company         "MediaTek" ;
+    chip:CpuName         "Dimensity 8100" ;
+    chip:GSC             "915" ;
+    chip:GBM             "3775" ;
+    chip:CSpeed          "2850" ;
+    chip:GpuName         "Mali-G610 MC6" .
+
+    id:D009
+    chip:Company         "Google" ;
+    chip:CpuName         "Google Tensor" ;
+    chip:GSC             "1038" ;
+    chip:GBM             "2845" ;
+    chip:CSpeed          "2850" ;
+    chip:GpuName         "Mali-G610 MC6" .
+
+    id:D010
+    chip:Company         "HiSilicon" ;
+    chip:CpuName         "Kirin 9000" ;
+    chip:GSC             "1039" ;
+    chip:GBM             "3677" ;
+    chip:CSpeed          "3130" ;
+    chip:GpuName         "Mali-G78 MP24" .
+
+    id:D011
+    chip:Company        "Samsung" ;
+    chip:CpuName        "Exynos 2100" ;
+    chip:GSC            "1082" ;
+    chip:GBM            "3580" ;
+    chip:CSpeed         "2900" ;
+    chip:GpuName        "Mali-G78 MP14".
+
+    id:D012
+    chip:Company        "Apple" ;
+    chip:CpuName        "A13 Bionic" ;
+    chip:GSC            "1321" ;
+    chip:GBM            "3494" ;
+    chip:CSpeed         "2660" ;
+    chip:GpuName        "Apple A13 Bionic GPU" .
+    
+    id:D013
+    chip:Company        "Qualcomm" ;
+    chip:CpuName        "Snapdragon 870" ;
+    chip:GSC            "993" ;
+    chip:GBM            "3371" ;
+    chip:CSpeed         "3200" ;
+    chip:GpuName        "Adreno 650" .
+
+    id:D014
+    chip:Company        "HiSilicon" ;
+    chip:CpuName        "Kirin 9000E" ;
+    chip:GSC            "1060" ;
+    chip:GBM            "3741" ;
+    chip:CSpeed         "3130" ;
+    chip:GpuName        "Mali-G78 MP22" .
+
+    id:D015
+    chip:Company        "Samsung" ;
+    chip:CpuName        "Exynos 1080" ;
+    chip:GSC            "831" ;
+    chip:GBM            "2902" ;
+    chip:CSpeed         "2800" ;
+    chip:GpuName        "Mali-G78 MP10" .
+
+    id:D016
+    chip:Company        "Qualcomm" ;
+    chip:CpuName        "Snapdragon 865 Plus" ;
+    chip:GSC            "913" ;
+    chip:GBM            "3268" ;
+    chip:CSpeed         "3100" ;
+    chip:GpuName        "Adreno 650" .
+
+    id:D017
+    chip:Company        "MediaTek" ;
+    chip:CpuName        "Dimensity 1200" ;
+    chip:GSC            "972" ;
+    chip:GBM            "3304" ;
+    chip:CSpeed         "3000" ;
+    chip:GpuName        "Mali-G77 MC9" .
+
+    id:D018
+    chip:Company        "Qualcomm" ;
+    chip:CpuName        "Snapdragon 865" ;
+    chip:GSC            "929" ;
+    chip:GBM            "3418" ;
+    chip:CSpeed         "2840" ;
+    chip:GpuName        "Adreno 650" .
+
+    id:D019
+    chip:Company        "MediaTek" ;
+    chip:CpuName        "Dimensity 1100" ;
+    chip:GSC            "661" ;
+    chip:GBM            "2486" ;
+    chip:CSpeed         "2600" ;
+    chip:GpuName        "Mali-G77 MC9" .
+
+    id:D020
+    chip:Company        "Samsung" ;
+    chip:CpuName        "Exynos 990" ;
+    chip:GSC            "938" ;
+    chip:GBM            "2722" ;
+    chip:CSpeed         "2730" ;
+    chip:GpuName        "Mali-G77 MP11" .
+    
+    id:D021
+    chip:Company        "MediaTek" ;
+    chip:CpuName        "Dimensity 1000 Plus" ;
+    chip:GSC            "788" ;
+    chip:GBM            "2880" ;
+    chip:CSpeed         "2600" ;
+    chip:GpuName        "Mali-G77 MC9" .
+
+    id:D022
+    chip:Company        "Apple" ;
+    chip:CpuName        "A12 Bionic" ;
+    chip:GSC            "1116" ;
+    chip:GBM            "2908" ;
+    chip:CSpeed         "2490" ;
+    chip:GpuName        "Apple A12 Bionic GPU" .
+
+    id:D023
+    chip:Company        "Qualcomm" ;
+    chip:CpuName        "Snapdragon 860" ;
+    chip:GSC            "732" ;
+    chip:GBM            "2908" ;
+    chip:CSpeed         "2960" ;
+    chip:GpuName        "Adreno 640" .
+
+    id:D024
+    chip:Company        "Qualcomm" ;
+    chip:CpuName        "Snapdragon 855 Plus" ;
+    chip:GSC            "775" ;
+    chip:GBM            "2773" ;
+    chip:CSpeed         "2960" ;
+    chip:GpuName        "Adreno 640" .
+
+    id:D025
+    chip:Company        "HiSilicon" ;
+    chip:CpuName        "Kirin 990 (5G)" ;
+    chip:GSC            "767" ;
+    chip:GBM            "3051" ;
+    chip:CSpeed         "2860" ;
+    chip:GpuName        "Mali G76 MP16" .
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+

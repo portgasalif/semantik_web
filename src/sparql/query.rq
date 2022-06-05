@@ -1,0 +1,14 @@
+@prefix id: <https://chipset.com/> 
+@prefix chip: <https://chipset.com/ns/chip#> 
+
+SELECT ?Company ?CpuName ?GSC ?GBM  ?CSpeed ?GpuName 
+WHERE
+    { 
+            ?chips
+            chip:Company        ?Company ;
+            chip:CpuName        ?CpuName ;
+            chip:GSC            ?GSC ;
+            chip:GBM            ?GBM ;
+            chip:CSpeed         ?CSpeed ;
+            chip:GpuName        ?GpuName .
+}
