@@ -2,7 +2,7 @@
 
 ## About Projects
 
-The application created is based on a website which the author then named it Lapbook. Lapbook itself is a website that contains information about Laptops of various types, brands, and others. On the website, there is also the application of web semantics in the form of a search engine using SPARQL so that each input given will display results that match the inputted.
+Aplikasi ini dibuat berbasis website yang diberi nama Chipmark. Chipmark merupakan sebuah website yang berisi informasi tentang chipset atau processor berbagai jenis, perusahaan pembuat, dan masih banyak lagi. Di situs ini juga terdapat aplikasi web semantik sebagai mesin pencari yang menggunakan SPARQL sehingga setiap input yang diberikan akan menampilkan hasil yang sesuai dengan yang dimasukkan.
 
 ### Built With
 
